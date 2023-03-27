@@ -1,6 +1,5 @@
 # Encointer Wallet 
 
-tt
 
 Encointer wallet and client for mobile phones
 
