@@ -1,6 +1,6 @@
 # Encointer Wallet 
 
-nn
+
 Encointer wallet and client for mobile phones
 
 <p align="left">
